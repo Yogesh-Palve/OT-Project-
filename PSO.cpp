@@ -1,10 +1,3 @@
-//============================================================================
-// Name        : PSO.cpp(Ubuntu_18_Ritesh)
-// Author      : Ritesh
-// Version     : v5
-// Copyright   : Your copyright notice
-// Description : Particle Swarm Implementation in C++, Ansi-style
-//============================================================================
 
 #include <iostream>
 #include <random>
@@ -389,3 +382,4 @@ int main(int argc, char **argv)
  gbest is the output
  Else goto for Each Particle
  */
+
